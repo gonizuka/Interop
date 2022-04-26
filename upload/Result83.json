@@ -1,0 +1,12 @@
+{
+ "alphanumeric": "I", 
+ "alphanumeric_color": "PURPLE", 
+ "autonomous": true, 
+ "latitude": 0.000003,
+ "longitude": 0.000060, 
+ "mission": 1, 
+ "orientation": "N", 
+ "shape": "STAR", 
+ "shape_color": "YELLOW", 
+ "type": "STANDARD" 
+ }
