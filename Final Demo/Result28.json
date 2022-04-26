@@ -1,0 +1,12 @@
+{
+ "alphanumeric": "R", 
+ "alphanumeric_color": "BLACK", 
+ "autonomous": true, 
+ "latitude": 0.000018,
+ "longitude": 0.000168, 
+ "mission": 1, 
+ "orientation": "N", 
+ "shape": "TRIANGLE", 
+ "shape_color": "ORANGE", 
+ "type": "STANDARD" 
+ }
